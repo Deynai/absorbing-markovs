@@ -5,9 +5,9 @@ A little toy for visually constructing an absorbing markov chain/state machine t
 Usage Instructions:
 - Create nodes with the New Node button
 - Create transitions by clicking a nodes OUT socket and connecting it to an IN socket
-- Enter a weight for that transition in the box
-- Click Generate Matrix to compute long term behaviour (or some help messages for what went wrong)
-- Select the appropriate Starting State
+- Enter a weight for transitions in the white box
+- When finished constructing the graph, click Generate Matrix to compute long term behaviour (or some help messages for what went wrong)
+- Select the appropriate starting state
 - If changes are made after generating, click Generate Matrix again to refresh.
 
 Note that all OUT transition weights must sum to 1, and a node with an OUT transition to itself with a weight of 1 is an absorbing state.
