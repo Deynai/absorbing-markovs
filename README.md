@@ -2,6 +2,8 @@
 
 A little toy for visually constructing an absorbing markov chain/state machine that computes long-term absorbing probabilities and expected steps. An experiment with using native C++ code in Unity.
 
+Try it out here: https://deynai.github.io/absorbing-markovs/
+
 Usage Instructions:
 - Create nodes with the New Node button
 - Create transitions by clicking a nodes OUT socket and connecting it to an IN socket
