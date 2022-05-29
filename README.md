@@ -1,6 +1,6 @@
 # Absorbing Markovs
 
-A little toy for visually constructing an absorbing markov chain/state machine that computes long-term absorbing probabilities and expected steps. Made as an experiment with importing a native C++ library into Unity.
+A little toy for visually constructing an absorbing markov chain/state machine that computes long-term absorbing probabilities and expected steps. An experiment with using native C++ code in Unity.
 
 Usage Instructions:
 - Create nodes with the New Node button
